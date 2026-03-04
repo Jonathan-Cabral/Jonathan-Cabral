@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas, atuando na área de Ciência de Dados com foco em Machine Learning, Deep Learning e Análise de Dados utilizando Python e SQL. Além disso, desenvolvo sistemas em Python e outras tecnologias</p>
+<p align="left">Sou profissional de Análise e Ciência de Dados, formado em Análise e Desenvolvimento de Sistemas e atualmente pós-graduando em Ciência de Dados e Big Data. Atuo como Analista de Dados na TMT Inteligência Logística, desenvolvendo soluções baseadas em dados para apoiar decisões estratégicas e aumentar a eficiência operacional. Tenho experiência na construção de modelos preditivos utilizando Árvores de Decisão, XGBoost, LightGBM e Deep Learning, além de atuar com fine tuning de LLMs utilizando PyTorch.</p>
 
 ###
 
